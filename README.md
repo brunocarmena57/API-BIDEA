@@ -1,5 +1,7 @@
 # API-BIDEA
 
+Prueba para Bidea realizada en C#.
+
 OBJETIVO: Crear una API rest que permite reservar una casa, para lo cual se debe recibir un request, validar dicho request, si se indica algún código de descuento validarlo a través de una api rest, y para finalizar guardar los datos del request en una bbdd postgresql.
 Por falta de tiempo hábil, no consegui tiempo para realizar la inclusión del banco postgreSQL.
 
