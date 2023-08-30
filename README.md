@@ -4,6 +4,6 @@ OBJETIVO: Crear una API rest que permite reservar una casa, para lo cual se debe
 Por falta de tiempo hábil, no conseguí realizar la inclusión del banco postgreSQL.
 
 Configuración y Uso <br />
-Clona este repositorio en tu entorno local. <br />
-Inicia el servidor de la API utilizando el comando dotnet start. <br />
-Testea la API en el port https://localhost:7218 con Swagger. <br />
+1.Clona este repositorio en tu entorno local. <br />
+2.Inicia el servidor de la API utilizando el comando dotnet start. <br />
+3.Testea la API en el port https://localhost:7218 con Swagger. <br />
